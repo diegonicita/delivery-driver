@@ -11,7 +11,7 @@ public class Collision : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("What was that? (CAMBIO)");
+        Debug.Log("What was that? (CAMBIO SOBRE UN CAMBIO)");
     }
 
 
