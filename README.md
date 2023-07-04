@@ -1,3 +1,5 @@
 # delivery-driver
 
-2d Mini Game: tiene que llevar unos paquetes a su destino usando tu vehiculo.
+2d Mini Game: 
+
+- Mision: llevar unos paquetes a destino usando tu vehiculo deportivo
